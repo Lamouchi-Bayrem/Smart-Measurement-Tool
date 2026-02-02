@@ -4,6 +4,7 @@ An intelligent measurement tool using computer vision and depth estimation to me
 
 ## Features
 
+
 - ✅ **Depth Estimation**: Monocular depth estimation using gradient-based and model-based methods
 - ✅ **Distance Measurement**: Measure distances between two points
 - ✅ **Area Measurement**: Calculate area of polygons
