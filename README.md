@@ -1,7 +1,7 @@
 # Smart Measurement Tool - AI-Powered CV Measurement
-![Uploading chrome_A9xHIJpU8O.png…]()
-An intelligent
- measurement tool using computer vision and depth estimation to measure distances, areas, volumes, and object dimensions from images.
+<img width="1920" height="869" alt="test" src="https://github.com/user-attachments/assets/ea01b21b-dbd3-4611-96d9-bf26f92fd067" />
+
+An intelligent measurement tool using computer vision and depth estimation to measure distances, areas, volumes, and object dimensions from images.
 
 ## Features
 
@@ -210,6 +210,7 @@ This project is provided as-is for educational and portfolio purposes.
 - OpenCV for computer vision
 - Streamlit for web framework
 - Depth estimation research community
+
 
 
 
